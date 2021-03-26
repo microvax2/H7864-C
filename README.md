@@ -5,8 +5,12 @@ Non-commercial license to do anything you want with the stuff in this repository
 For commecial licensing please contact me.
 
 Project Folders:
-Software
+Software - PIC12F675 firmware
+
 Metal Parts
+
 Looms
+
 PCB
+
 Assembly
