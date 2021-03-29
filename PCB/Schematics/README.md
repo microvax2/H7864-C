@@ -1,0 +1,3 @@
+Schematics for H7864-C
+
+** READ THE COMMENTS ON SHCEMATIC SHEET 2 **
