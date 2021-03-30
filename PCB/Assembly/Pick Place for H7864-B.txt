@@ -1,0 +1,92 @@
+Altium Designer Pick and Place Locations
+D:\GoogleDrive\VAX Museum\H7864\PCB Rev B\Project Outputs for H7864\Pick Place for H7864-B.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/03/21
+Time:       12:15
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer    Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                              
+P8         Header                 TopLayer HDR_1x2_Offset     5280.000      5267.500      90       "Header, 2-pin"                                                                          
+""         Comment                TopLayer CAPE5.0mm          6144.409      5144.016      270      ""                                                                                       
+""         Comment                TopLayer CAPE5.0mm          6180.000      2408.425      270      ""                                                                                       
+R19        CRCW080547K0FKEA       TopLayer 2012[0805]         5317.000      6012.000      180      Resistor                                                                                 
+J14        1-640385-9             TopLayer MTA156-9           6500.000      3987.000      0        ""                                                                                       
+P5         B8B-PHDSS(LF)(SN)      TopLayer B8B-PHDSS          5108.630      3041.630      0        ""                                                                                       
+P3         B8B-PHDSS(LF)(SN)      TopLayer B8B-PHDSS          5122.370      5668.630      0        ""                                                                                       
+U3         PIC12F675-I/P          TopLayer DIP8-300           5313.000      4660.000      270      "FLASH-Based 8-Bit CMOS Microcontroller, 10-Bit A/D, 8-Pin PDIP, Industrial Temperature" 
+R10        CRCW080547K0FKEA       TopLayer 2012[0805]         4625.000      4257.000      270      Resistor                                                                                 
+J19        "Remote On Off +"      TopLayer TP-THT-MULTI       5909.000      6368.000      180      Socket                                                                                   
+C5         VJ0805Y103JXAPW1BC     TopLayer C0805-S            5566.000      4916.000      180      Capacitor                                                                                
+J25        FAN-                   TopLayer TP-THT-MULTI       5258.000      1804.000      0        Socket                                                                                   
+J24        FAN-                   TopLayer TP-THT-MULTI       5570.000      1804.000      0        Socket                                                                                   
+J22        FAN+                   TopLayer TP-THT-MULTI       5102.000      1804.000      0        Socket                                                                                   
+J20        FAN+                   TopLayer TP-THT-MULTI       5414.000      1804.000      0        Socket                                                                                   
+J7         "Wire Solder"          TopLayer TP-THT-MULTI       6282.000      2017.000      0        Socket                                                                                   
+J4         "Wire Solder"          TopLayer TP-THT-MULTI       6204.000      4685.000      0        Socket                                                                                   
+J23        FAN-                   TopLayer TP-THT-MULTI       6084.000      1560.000      0        Socket                                                                                   
+P4         Header                 TopLayer HDR_1x2_Offset     4567.000      3893.500      90       "Header, 2-pin"                                                                          
+D5         ""                     TopLayer DO-204AL           5658.000      2223.000      270      "1 Amp General Purpose Rectifier"                                                        
+J21        FAN+                   TopLayer TP-THT-MULTI       5928.000      1560.000      0        Socket                                                                                   
+D2         ""                     TopLayer DO-204AL           5970.000      2223.000      270      "1 Amp General Purpose Rectifier"                                                        
+D4         ""                     TopLayer DO-204AL           5814.000      2223.000      90       "1 Amp General Purpose Rectifier"                                                        
+C4         ""                     TopLayer MKP-3381-15        3744.000      1560.000      180      Capacitor                                                                                
+J12        "Wire Solder"          TopLayer TP-THT-MULTI       6282.000      1861.000      90       Socket                                                                                   
+C1         10uF                   TopLayer CAPMP3216X180N     4602.000      4836.000      270      "Capacitor SMD Tantalum 68uF 10% 6.3V EIA 3216-18"                                       
+D3         ""                     TopLayer DO-204AL           4020.000      2270.001      180      "1 Amp General Purpose Rectifier"                                                        
+D1         BAT54C                 TopLayer SOT23              4910.000      5080.000      270      "Schottky Barrier Double Diode"                                                          
+J9         1-640385-9             TopLayer MTA156-9           6500.000      5391.000      0        ""                                                                                       
+Q2         SI2306BDS-T1-E3        TopLayer SOT23-3            5538.000      3900.000      0        "N-Channel MOSFET"                                                                       
+Q1         SI2306BDS-T1-E3        TopLayer SOT23-3            5538.000      3744.000      0        "N-Channel MOSFET"                                                                       
+R4         ""                     TopLayer 2012[0805]         4914.000      5290.000      180      Resistor                                                                                 
+R3         "180K 1%"              TopLayer 2012[0805]         4719.000      4836.000      270      Resistor                                                                                 
+R1         "26.1K 1%"             TopLayer 2012[0805]         4914.000      4875.000      180      Resistor                                                                                 
+R5         CRCW080547K0FKEA       TopLayer 2012[0805]         4679.000      4630.000      0        Resistor                                                                                 
+R2         CRCW080547K0FKEA       TopLayer 2012[0805]         4678.000      4494.000      180      Resistor                                                                                 
+R6         "180K 1%"              TopLayer 2012[0805]         4719.000      5265.000      270      Resistor                                                                                 
+D6         ""                     TopLayer DO-204AL           4020.000      1855.001      360      "1 Amp General Purpose Rectifier"                                                        
+J18        "Wire Solder"          TopLayer TP-THT-MULTI       3120.000      2028.000      0        Socket                                                                                   
+J16        "Wire Solder"          TopLayer TP-THT-MULTI       3120.000      2340.000      0        Socket                                                                                   
+R8         ""                     TopLayer RESTH_AXIAL_MRA-05 4015.000      2465.000      360      Resistor                                                                                 
+R12        CRCW080547K0FKEA       TopLayer 2012[0805]         5005.000      4274.000      180      Resistor                                                                                 
+R11        ""                     TopLayer RESTH_AXIAL_MRA-05 4020.000      2065.000      360      Resistor                                                                                 
+U2         LTV816                 TopLayer DIP-4              4693.000      1696.000      360      "4-Pin Phototransistor Optocoupler"                                                      
+J13        "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      5928.000      90       Socket                                                                                   
+J8         "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      5616.000      90       Socket                                                                                   
+J2         "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      5304.000      90       Socket                                                                                   
+J1         "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      2808.000      0        Socket                                                                                   
+J5         "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      3432.000      0        Socket                                                                                   
+J10        "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      3120.000      0        Socket                                                                                   
+J11        "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      4368.000      90       Socket                                                                                   
+J6         "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      4680.000      90       Socket                                                                                   
+J3         "Wire Solder"          TopLayer TP-THT-MULTI       5928.000      4992.000      90       Socket                                                                                   
+J15        1-640385-9             TopLayer MTA156-9           6502.000      2491.000      0        ""                                                                                       
+MOV1       "TVB7S471KR 10mm disc" TopLayer TVR1010            3432.000      2262.000      270      "Varistor (Voltage-Sensitive Resistor)"                                                  
+J17        "Remote On Off -"      TopLayer TP-THT-MULTI       6065.000      6368.000      180      Socket                                                                                   
+LED3       LTST-C170TGKT          TopLayer LTST-C170          3390.892      4050.000      180      ""                                                                                       
+LED4       LTST-C170TGKT          TopLayer LTST-C170          3096.339      4050.000      180      ""                                                                                       
+R14        2K                     TopLayer 2012[0805]         3391.601      4234.000      180      Resistor                                                                                 
+R15        330                    TopLayer 2012[0805]         3097.401      4234.000      180      Resistor                                                                                 
+LED1       LTST-C170KRKT          TopLayer LTST-C170          3980.000      4050.000      180      ""                                                                                       
+R7         330                    TopLayer 2012[0805]         3980.000      4234.000      180      Resistor                                                                                 
+R9         330                    TopLayer 2012[0805]         3689.598      4234.000      180      Resistor                                                                                 
+C2         VJ0805Y103JXAPW1BC     TopLayer C0805-S            3588.000      5031.000      90       Capacitor                                                                                
+P1         Programmer             TopLayer HDR1X4_2.54MMP     5878.000      3841.000      90       "Header 4-pin"                                                                           
+F1         63mA                   TopLayer FUSE_HOLDER_656    3710.000      2820.000      180      "Fuse Holder 65600001009  + cover 65900000009"                                           
+C3         100uF                  TopLayer CAPMP3216X180N     4602.000      5265.000      270      "Capacitor SMD Tantalum 68uF 10% 6.3V EIA 3216-18"                                       
+R13        CRCW080547K0FKEA       TopLayer 2012[0805]         4369.598      5343.000      360      Resistor                                                                                 
+R16        CRCW080547K0FKEA       TopLayer 2012[0805]         3931.000      4652.000      180      Resistor                                                                                 
+LED2       LTST-C170KRKT          TopLayer LTST-C170          3680.000      4050.000      180      ""                                                                                       
+P2         Header                 TopLayer HDR_1x2_Offset     5695.000      1480.500      270      "Header, 2-pin"                                                                          
+P7         "Header 5"             TopLayer HDR1X5             5407.000      4396.000      180      "Header, 5-Pin"                                                                          
+D7         BAT54C                 TopLayer SOT23              5538.500      5148.000      180      "Schottky Barrier Double Diode"                                                          
+C6         100uF                  TopLayer CAPMP3216X180N     5558.000      5012.000      0        "Capacitor SMD Tantalum 68uF 10% 6.3V EIA 3216-18"                                       
+U1         SN74AC14               TopLayer J014               4095.000      5031.000      360      "Hex Schmitt-Trigger Inverter"                                                           
+Q3         SI2306BDS-T1-E3        TopLayer SOT23-3            4271.000      4091.000      0        "N-Channel MOSFET"                                                                       
+R17        CRCW080547K0FKEA       TopLayer 2012[0805]         4226.000      4257.000      270      Resistor                                                                                 
+P6         Header                 TopLayer HDR_1x2_Offset     4568.000      4091.500      90       "Header, 2-pin"                                                                          
+R18        CRCW080547K0FKEA       TopLayer 2012[0805]         4490.000      4257.000      270      Resistor                                                                                 
