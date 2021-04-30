@@ -31,9 +31,14 @@ This would probably be true for other KA6xx CPU Boards that keep time, boot para
 The reason being, correct hardware shutdown must be performned by the CPU board upon power-off detection.
 
 So your assembly options are:
+
 **Option C: if you are lazy and don't care about preserving TOY clock after power-off, or have a PDP-11 and need an artificial LTC clock signal**
+
 **Option A: if you are lazy, don't need an LTC clock, and don't even want to use a microcontroller**
+
 **Option A+B: if you are lazy, have a PDP-11 system, and need a working, real LTC clock**
+
 **Option B+C: if you are lazy and want to keep the TOY clock functioning when power is removed**
+
 
 
