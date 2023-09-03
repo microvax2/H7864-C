@@ -26,6 +26,7 @@ B. An analog line monitoring circuitry that feeds the PIC microcontroller with a
 C. A PIC microcontroller - to generate POK, DCOK signals on power-up and an artificial LTC clock
 
 Blocks A and C are mutually exclusive
+
 Block B, if assembled together with Block C, enables the PIC to generate a correct sequence for POK, DCOK upon power-off.
 
 Why this is important: ONLY OPTION B + C WILL PRESERVE THE TOY (Time of Year) CLOCK OF THE KA630.
