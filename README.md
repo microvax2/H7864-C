@@ -20,7 +20,9 @@ Assembly
 There are several "blocks" marked on the power supply control PCB.
 
 A. A 74AC14 TTL gate - to generate POK, DCOK signals on power-up
+
 B. An analog line monitoring circuitry that feeds the PIC microcontroller with a square wave signal and generates a "True" LTC clock
+
 C. A PIC microcontroller - to generate POK, DCOK signals on power-up and an artificial LTC clock
 
 Blocks A and C are mutually exclusive
