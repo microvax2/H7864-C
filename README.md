@@ -28,6 +28,7 @@ C. A PIC microcontroller - to generate POK, DCOK signals on power-up and an arti
 Blocks A and C are mutually exclusive
 
 Block B, if assembled together with Block C, enables the PIC to generate a correct sequence for POK, DCOK upon power-off.
+
 **IMPORTANT** If assembling Block C (microcontroller) - don't populate the 74AC14 (U1).
 
 Why this is important: ONLY OPTION B + C WILL PRESERVE THE TOY (Time of Year) CLOCK OF THE KA630.
